@@ -10,3 +10,6 @@ The existing features are:
 - Move between entries;
 - Update;
 - Delete.
+
+## To see the updated version, go to https://github.com/PauloScheuer/contacts_delphi_v2
+
